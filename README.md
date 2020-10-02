@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+https://webdevblog.ru/sozdanie-prilozheniya-na-vue-js-po-tdd-obshirnoe-rukovodstvo-dlya-ljudej-u-kotoryh-est-vremya-chast-1/
